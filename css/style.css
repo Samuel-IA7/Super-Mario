@@ -84,19 +84,3 @@ html {
         right: 100%;
     }
 }
-/**
-.nuvem2 {
-    position: absolute;
-    animation: passagem2 15s infinite linear;
-    width: 500px;
-}
-
-@keyframes passagem2 {
-    from {
-        right: -1000px;
-    }
-
-    to {
-        right: 100%;
-    }
-}**/
